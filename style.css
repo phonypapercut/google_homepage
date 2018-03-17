@@ -1,5 +1,25 @@
 .main {
+  padding: 10% 0;
+  text-align: center;
   margin: auto;
-  width: 50%;
-  height: 50%;
+  max-width: 25%;
+}
+
+.right {
+  float: right;
+}
+
+a, img, button {
+  font-size: 13px;
+  color: #000;
+  text-decoration: none;
+  padding: 0px 6px;
+}
+
+footer {
+  background-color: rgba(0,0,25,.05);
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  padding: 0;
 }
